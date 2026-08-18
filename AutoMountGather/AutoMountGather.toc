@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: AutoMountGather
+## Notes: Vuelve a montar automaticamente despues de minar o recolectar hierbas
+## Author: Mrsose
+## Version: 1.0
+## SavedVariables: AutoMountGatherDB
+
+AutoMountGather.lua
